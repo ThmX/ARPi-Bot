@@ -30,7 +30,7 @@ Finally, the `cwiid.jar` will be generated.
 
 #### Scala
 
-[scala source](https://github.com/ThmX/RaspBot/Tutorials/cwiid-jna/cwiid.scala)
+[scala source](https://github.com/ThmX/RaspBot/blob/master/Tutorials/cwiid-jna/cwiid.scala)
 
 Compile & run the code above using the following commands, don't forget to place the libraries in the same directory.
 
