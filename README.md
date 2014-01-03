@@ -3,7 +3,7 @@ RaspBot
 
 Robot built upon a Raspberry Pi and a Silicon Laboratories C8051F340.
 
-![RaspBot](https://github.com/ThmX/RaspBot/Tutorials/RaspBot.png "RaspBot")
+![RaspBot](https://github.com/ThmX/RaspBot/raw/master/Tutorials/RaspBot.png "RaspBot")
 
 ## [Tutorials](https://github.com/ThmX/RaspBot/Tutorials/)
 Check the tutorials section to have some explanations on the implementation.

@@ -15,7 +15,7 @@ In order to use the CWiid library, we will have to map the C library.
 The mapping will be done using JNAerator and it will generate a JAR file.
 The following figure shows what configuration was used:
 
-![JNAerator](https://github.com/ThmX/RaspBot/Tutorials/cwiid-jna/jnaerator.png "JNAerator")
+![JNAerator](https://github.com/ThmX/RaspBot/raw/master/Tutorials/cwiid-jna/jnaerator.png "JNAerator")
 
 `cwiid.h` was tweaked to avoid having to import `bluetooth.h` which was producing errors.
 
