@@ -1,6 +1,0 @@
-[submodule "Tutorials/cwiid-jna"]
-	path = Tutorials/cwiid-jna
-	url = git@github.com:ThmX/cwiid-jna.git
-[submodule "Tutorials/raspi-silabs-i2c"]
-	path = Tutorials/raspi-silabs-i2c
-	url = git@github.com:ThmX/cwiid-jna.git
