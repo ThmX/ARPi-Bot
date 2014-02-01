@@ -19,10 +19,12 @@ The following figure shows what configuration was used:
 
 `cwiid.h` was tweaked to avoid having to import `bluetooth.h` which was producing errors.
 
-	// #include <bluetooth/bluetooth.h>	/* bdaddr_t */
-	typedef struct {
-		uint8_t b[6];
-	} __attribute__((packed)) bdaddr_t;
+```c
+// #include <bluetooth/bluetooth.h>	/* bdaddr_t */
+typedef struct {
+	uint8_t b[6];
+} __attribute__((packed)) bdaddr_t;
+```
 
 Finally, the `cwiid.jar` will be generated.
 
