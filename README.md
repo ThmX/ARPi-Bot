@@ -1,17 +1,18 @@
-RaspBot
-=======
+ARPi-Bot
+========
 
-Robot built upon a Raspberry Pi and a Silicon Laboratories C8051F340.
+ARPi-Bot which stands for **A**ndroid-**R**aspberry **Pi**-**Bot** is a project to build a robot upon a **Raspberry Pi**, an **Android** device and a **Silicon Laboratories C8051F340** board.
 
-![RaspBot](https://github.com/ThmX/RaspBot/raw/master/Tutorials/RaspBot.png "RaspBot")
+![ARPi-Bot](https://github.com/ThmX/ARPi-Bot/raw/master/ARPiBot.png "ARPi-Bot")
 
 
 ## Tutorials
 
 The following tutorials are made alongside with the design and implementation of this project.
 
-* [CWiid & Java Native Access (JNA)](https://github.com/ThmX/RaspBot/tree/master/Tutorials/cwiid-jna)
-* [Raspberry Pi & Silabs C8051F340 (I2C Communication)](https://github.com/ThmX/RaspBot/tree/master/Tutorials/raspi-silabs-i2c)
+* [CWiid & Java Native Access (JNA)](https://github.com/ThmX/cwiid-jna)
+* Raspberry Pi & Silabs C8051F340 (I2C Communication) `TBD`
+* [Scaloid WebService](https://github.com/ThmX/scaloid-usb-comm)
 
 
 ## License

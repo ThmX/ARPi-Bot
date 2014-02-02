@@ -14,7 +14,9 @@ libraryDependencies ++= Seq(
 	"net.sf.bluecove" % "bluecove" % "2.1.0",
 	"org.slf4j" % "slf4j-api" % "1.7.5",
 	"net.java.dev.jna" % "jna" % "4.0.0",
-	"com.nativelibs4java" % "jnaerator-runtime" % "0.11"
+	"com.nativelibs4java" % "jnaerator-runtime" % "0.11",
+  "javax" % "javaee-api" % "6.0",
+  "log4j" % "log4j" % "1.2.16"
 )
 
 resolvers ++= Seq(

@@ -1,4 +1,4 @@
-package ch.thmx.raspbot.tests
+package ch.thmx.arpibot.tests
 
 import org.scalatest._
 
