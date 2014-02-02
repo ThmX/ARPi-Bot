@@ -11,7 +11,7 @@ ARPi-Bot which stands for **A**ndroid-**R**aspberry **Pi**-**Bot** is a project 
 The following tutorials are made alongside with the design and implementation of this project.
 
 * [CWiid & Java Native Access (JNA)](https://github.com/ThmX/cwiid-jna)
-* Raspberry Pi & Silabs C8051F340 (I2C Communication) `TBD`
+* [Raspberry Pi & Silabs C8051F340 (I2C Communication)](https://github.com/ThmX/raspi-silabs-i2c)
 * [Scaloid WebService](https://github.com/ThmX/scaloid-usb-comm)
 
 
